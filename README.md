@@ -9,43 +9,43 @@ Scripts underlying analysis in:
 Marieke Scheel, Mats Lindeskog, Benjamin Smith, Thomas A. M. Pugh, Increased Central European forest mortality explained by higher harvest rates driven by enhanced productivity
 
 Folder: harvest_checks
-- country_nbr.m
-- harvest_rate_LPJGUESS.m
-- median_europe_sev_cols_2.m
-- polypredci.m
+- country_nbr.m, add FAO country number to cells in Central Europe (helper function)
+- harvest_rate_LPJGUESS.m, Plot harvest rates used in LPJ-GUESS model vs. harvest rate calculated from FAO wood area estimates and wood removeal estimates by Ceccherini et al. (2020)
+- median_europe_sev_cols_2.m, calculate median in each country (helper function)
+- polypredci.m, Star Strider 2020 polypredci https://www.mathworks.com/matlabcentral/fileexchange/57630-polypredci MATLAB Central File Exchange Retrieved November 24 2020 (helper function)
 
 Folder: manag_climfix
-- canopy_area_mort_adjusted.m
-- canopy_mort_trend_contributes_Fig3.m
-- country_nbr.m
-- lpj_tp_grid_func_centre.m
-- median_all_europe.m
-- median_europe.m
-- NPP_contributes_FigA8.m
-- polypredci.m
-- timerange.m
+- canopy_area_mort_adjusted.m, adjust canopy mortality rate to only take into account the part that is likely to be seen from space (helper function)
+- canopy_mort_trend_contributes_Fig3.m, Canopy mortality trend and SE exported for all countries and Central Europe
+- country_nbr.m, add FAO country number to cells in Central Europe (helper function)
+- lpj_tp_grid_func_centre.m, Function to read in a LPJ-GUESS output file and reformat it into a multi-dimensional array suitable for making Matlab plots with (helper function)
+- median_all_europe.m, calculate median for Central Europe (helper function)
+- median_europe.m, calculate median for Central European countries (helper function)
+- NPP_contributes_FigA8.m, 
+- polypredci.m, Star Strider 2020 polypredci https://www.mathworks.com/matlabcentral/fileexchange/57630-polypredci MATLAB Central File Exchange Retrieved November 24 2020 (helper function)
+- timerange.m, extraction of time period 1985-2010 for all cells (helper function)
 
 Folder: manag_co2fix
-- canopy_area_mort_adjusted.m
-- canopy_mort_trend_contributes_Fig3.m
-- country_nbr.m
-- lpj_tp_grid_func_centre.m
-- median_all_europe.m
-- median_europe.m
-- NPP_contributes_FigA8.m
-- polypredci.m
-- timerange.m
+- canopy_area_mort_adjusted.m, adjust canopy mortality rate to only take into account the part that is likely to be seen from space (helper function)
+- canopy_mort_trend_contributes_Fig3.m, Canopy mortality trend and SE exported for all countries and Central Europe
+- country_nbr.m, add FAO country number to cells in Central Europe (helper function)
+- lpj_tp_grid_func_centre.m, Function to read in a LPJ-GUESS output file and reformat it into a multi-dimensional array suitable for making Matlab plots with (helper function)
+- median_all_europe.m, calculate median for Central Europe (helper function)
+- median_europe.m, calculate median for Central European countries (helper function)
+- NPP_contributes_FigA8.m, 
+- polypredci.m, Star Strider 2020 polypredci https://www.mathworks.com/matlabcentral/fileexchange/57630-polypredci MATLAB Central File Exchange Retrieved November 24 2020 (helper function)
+- timerange.m, extraction of time period 1985-2010 for all cells (helper function)
 
 Folder: manag_ndepfix
-- canopy_area_mort_adjusted.m
-- canopy_mort_trend_contributes_Fig3.m
-- country_nbr.m
-- lpj_tp_grid_func_centre.m
-- median_all_europe.m
-- median_europe.m
-- NPP_contributes_FigA8.m
-- polypredci.m
-- timerange.m
+- canopy_area_mort_adjusted.m, adjust canopy mortality rate to only take into account the part that is likely to be seen from space (helper function)
+- canopy_mort_trend_contributes_Fig3.m, Canopy mortality trend and SE exported for all countries and Central Europe
+- country_nbr.m, add FAO country number to cells in Central Europe (helper function)
+- lpj_tp_grid_func_centre.m, Function to read in a LPJ-GUESS output file and reformat it into a multi-dimensional array suitable for making Matlab plots with (helper function)
+- median_all_europe.m, calculate median for Central Europe (helper function)
+- median_europe.m, calculate median for Central European countries (helper function)
+- NPP_contributes_FigA8.m, 
+- polypredci.m, Star Strider 2020 polypredci https://www.mathworks.com/matlabcentral/fileexchange/57630-polypredci MATLAB Central File Exchange Retrieved November 24 2020 (helper function)
+- timerange.m, extraction of time period 1985-2010 for all cells (helper function)
 
 Folder: manag_nofix
 - brewermap.m
