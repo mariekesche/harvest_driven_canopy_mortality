@@ -88,7 +88,7 @@ Folder: PNV
 - canopy_mort_trend_contributes_Fig3.m, Canopy mortality trend and SE exported for all countries and Central Europe
 - country_nbr.m, add FAO country number to cells in Central Europe (helper function)
 - FigA2_Biomass_vs_diameter.m, Calculation and plotting of biomass by diameter in countries over time
-- FigA6_Mortality_causes_additional_central_europe.m
+- FigA6_Mortality_causes_additional_central_europe.m, Calculation and plotting of canopy mortality causes in countries and in Central Europe
 - lpj_tp_grid_func_centre.m, Function to read in a LPJ-GUESS output file and reformat it into a multi-dimensional array suitable for making Matlab plots with (helper function)
 - median_all_europe.m, calculate median for Central Europe (helper function)
 - median_all_europe_sev_cols.m, calculate median for Central Europe for files with several value columns (helper function)
