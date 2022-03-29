@@ -14,7 +14,7 @@ Folder: harvest_checks
 - median_europe_sev_cols_2.m, calculate median in each country (helper function)
 - polypredci.m, Star Strider 2020 polypredci https://www.mathworks.com/matlabcentral/fileexchange/57630-polypredci MATLAB Central File Exchange Retrieved November 24 2020 (helper function)
 
-Folder: manag_climfix
+Folder: manag_climfix (simulation IVa)
 - canopy_area_mort_adjusted.m, adjust canopy mortality rate to only take into account the part that is likely to be seen from space (helper function)
 - canopy_mort_trend_contributes_Fig3.m, Canopy mortality trend and SE exported for all countries and Central Europe
 - country_nbr.m, add FAO country number to cells in Central Europe (helper function)
@@ -25,7 +25,7 @@ Folder: manag_climfix
 - polypredci.m, Star Strider 2020 polypredci https://www.mathworks.com/matlabcentral/fileexchange/57630-polypredci MATLAB Central File Exchange Retrieved November 24 2020 (helper function)
 - timerange.m, extraction of time period 1985-2010 for all cells (helper function)
 
-Folder: manag_co2fix
+Folder: manag_co2fix (simulation IVb)
 - canopy_area_mort_adjusted.m, adjust canopy mortality rate to only take into account the part that is likely to be seen from space (helper function)
 - canopy_mort_trend_contributes_Fig3.m, Canopy mortality trend and SE exported for all countries and Central Europe
 - country_nbr.m, add FAO country number to cells in Central Europe (helper function)
@@ -36,7 +36,7 @@ Folder: manag_co2fix
 - polypredci.m, Star Strider 2020 polypredci https://www.mathworks.com/matlabcentral/fileexchange/57630-polypredci MATLAB Central File Exchange Retrieved November 24 2020 (helper function)
 - timerange.m, extraction of time period 1985-2010 for all cells (helper function)
 
-Folder: manag_ndepfix
+Folder: manag_ndepfix (simulation IVc)
 - canopy_area_mort_adjusted.m, adjust canopy mortality rate to only take into account the part that is likely to be seen from space (helper function)
 - canopy_mort_trend_contributes_Fig3.m, Canopy mortality trend and SE exported for all countries and Central Europe
 - country_nbr.m, add FAO country number to cells in Central Europe (helper function)
@@ -47,7 +47,7 @@ Folder: manag_ndepfix
 - polypredci.m, Star Strider 2020 polypredci https://www.mathworks.com/matlabcentral/fileexchange/57630-polypredci MATLAB Central File Exchange Retrieved November 24 2020 (helper function)
 - timerange.m, extraction of time period 1985-2010 for all cells (helper function)
 
-Folder: manag_nofix
+Folder: manag_nofix (simulation III)
 - brewermap.m, Stephen 2021 ColorBrewer: Attractive and Distinctive Colormaps https://github.com/DrosteEffect/BrewerMap GitHub Retrieved May 19 2021 (helper function)
 - canopy_area_mort_adjusted.m, adjust canopy mortality rate to only take into account the part that is likely to be seen from space (helper function)
 - canopy_mort_trend_contributes_Fig3.m, Canopy mortality trend and SE exported for all countries and Central Europe
@@ -66,7 +66,7 @@ Folder: manag_nofix
 - polypredci.m, Star Strider 2020 polypredci https://www.mathworks.com/matlabcentral/fileexchange/57630-polypredci MATLAB Central File Exchange Retrieved November 24 2020 (helper function)
 - timerange.m, extraction of time period 1985-2010 for all cells (helper function)
 
-Folder: manag_nothin
+Folder: manag_nothin (simulation II)
 - brewermap.m, Stephen 2021 ColorBrewer: Attractive and Distinctive Colormaps https://github.com/DrosteEffect/BrewerMap GitHub Retrieved May 19 2021 (helper function)
 - canopy_area_mort_adjusted.m, adjust canopy mortality rate to only take into account the part that is likely to be seen from space (helper function)
 - canopy_mort_trend_contributes_Fig3.m, Canopy mortality trend and SE exported for all countries and Central Europe
@@ -82,7 +82,7 @@ Folder: manag_nothin
 - polypredci.m, Star Strider 2020 polypredci https://www.mathworks.com/matlabcentral/fileexchange/57630-polypredci MATLAB Central File Exchange Retrieved November 24 2020 (helper function)
 - timerange.m, extraction of time period 1985-2010 for all cells (helper function)
 
-Folder: PNV
+Folder: PNV (simulation I)
 - brewermap.m, Stephen 2021 ColorBrewer: Attractive and Distinctive Colormaps https://github.com/DrosteEffect/BrewerMap GitHub Retrieved May 19 2021 (helper function)
 - canopy_area_mort_adjusted.m, adjust canopy mortality rate to only take into account the part that is likely to be seen from space (helper function)
 - canopy_mort_trend_contributes_Fig3.m, Canopy mortality trend and SE exported for all countries and Central Europe
