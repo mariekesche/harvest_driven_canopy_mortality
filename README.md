@@ -1,4 +1,4 @@
-Increased Central European forest mortality explained by higher harvest rates driven by enhanced productivity
+# Increased Central European forest mortality explained by higher harvest rates driven by enhanced productivity
 
 ## Authors
 Marieke Scheel, Lund University, Sweden, marieke.scheel@gmail.com
