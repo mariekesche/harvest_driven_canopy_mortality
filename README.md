@@ -1,10 +1,10 @@
 Increased Central European forest mortality explained by higher harvest rates driven by enhanced productivity
 
-##Authors
+## Authors
 Marieke Scheel, Lund University, Sweden, marieke.scheel@gmail.com
 Thomas A. M. Pugh, Lund University, Sweden, thomas.pugh@nateko.lu.se
 
-##Description
+## Description
 Scripts underlying analysis in:
 Marieke Scheel, Mats Lindeskog, Benjamin Smith, Thomas A. M. Pugh, Increased Central European forest mortality explained by higher harvest rates driven by enhanced productivity
 
