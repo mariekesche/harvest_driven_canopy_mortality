@@ -12,7 +12,6 @@ Folder: harvest_checks
 - country_nbr.m, add FAO country number to cells in Central Europe (helper function)
 - harvest_rate_LPJGUESS.m, Plot harvest rates used in LPJ-GUESS model vs. harvest rate calculated from FAO wood area estimates and wood removeal estimates by Ceccherini et al. (2020)
 - median_europe_sev_cols_2.m, calculate median in each country (helper function)
-- polypredci.m, Star Strider 2020 polypredci https://www.mathworks.com/matlabcentral/fileexchange/57630-polypredci MATLAB Central File Exchange Retrieved November 24 2020 (helper function)
 
 Folder: manag_climfix (simulation IVa)
 - canopy_area_mort_adjusted.m, adjust canopy mortality rate to only take into account the part that is likely to be seen from space (helper function)
@@ -22,7 +21,6 @@ Folder: manag_climfix (simulation IVa)
 - median_all_europe.m, calculate median for Central Europe (helper function)
 - median_europe.m, calculate median for Central European countries (helper function)
 - NPP_contributes_FigA8.m, Calculation of forest NPP and export of trend and uncertainty
-- polypredci.m, Star Strider 2020 polypredci https://www.mathworks.com/matlabcentral/fileexchange/57630-polypredci MATLAB Central File Exchange Retrieved November 24 2020 (helper function)
 - timerange.m, extraction of time period 1985-2010 for all cells (helper function)
 
 Folder: manag_co2fix (simulation IVb)
@@ -33,7 +31,6 @@ Folder: manag_co2fix (simulation IVb)
 - median_all_europe.m, calculate median for Central Europe (helper function)
 - median_europe.m, calculate median for Central European countries (helper function)
 - NPP_contributes_FigA8.m, Calculation of forest NPP and export of trend and uncertainty
-- polypredci.m, Star Strider 2020 polypredci https://www.mathworks.com/matlabcentral/fileexchange/57630-polypredci MATLAB Central File Exchange Retrieved November 24 2020 (helper function)
 - timerange.m, extraction of time period 1985-2010 for all cells (helper function)
 
 Folder: manag_ndepfix (simulation IVc)
@@ -44,11 +41,9 @@ Folder: manag_ndepfix (simulation IVc)
 - median_all_europe.m, calculate median for Central Europe (helper function)
 - median_europe.m, calculate median for Central European countries (helper function)
 - NPP_contributes_FigA8.m, Calculation of forest NPP and export of trend and uncertainty
-- polypredci.m, Star Strider 2020 polypredci https://www.mathworks.com/matlabcentral/fileexchange/57630-polypredci MATLAB Central File Exchange Retrieved November 24 2020 (helper function)
 - timerange.m, extraction of time period 1985-2010 for all cells (helper function)
 
 Folder: manag_nofix (simulation III)
-- brewermap.m, Stephen 2021 ColorBrewer: Attractive and Distinctive Colormaps https://github.com/DrosteEffect/BrewerMap GitHub Retrieved May 19 2021 (helper function)
 - canopy_area_mort_adjusted.m, adjust canopy mortality rate to only take into account the part that is likely to be seen from space (helper function)
 - canopy_mort_trend_contributes_Fig3.m, Canopy mortality trend and SE exported for all countries and Central Europe
 - country_nbr.m, add FAO country number to cells in Central Europe (helper function)
@@ -63,11 +58,9 @@ Folder: manag_nofix (simulation III)
 - median_europe.m, calculate median for Central European countries (helper function)
 - median_europe_sev_cols.m, calculate median for Central European countries for files with several value columns (helper function)
 - NPP_contributes_FigA8.m, Calculation of forest NPP and export of trend and uncertainty
-- polypredci.m, Star Strider 2020 polypredci https://www.mathworks.com/matlabcentral/fileexchange/57630-polypredci MATLAB Central File Exchange Retrieved November 24 2020 (helper function)
 - timerange.m, extraction of time period 1985-2010 for all cells (helper function)
 
 Folder: manag_nothin (simulation II)
-- brewermap.m, Stephen 2021 ColorBrewer: Attractive and Distinctive Colormaps https://github.com/DrosteEffect/BrewerMap GitHub Retrieved May 19 2021 (helper function)
 - canopy_area_mort_adjusted.m, adjust canopy mortality rate to only take into account the part that is likely to be seen from space (helper function)
 - canopy_mort_trend_contributes_Fig3.m, Canopy mortality trend and SE exported for all countries and Central Europe
 - country_nbr.m, add FAO country number to cells in Central Europe (helper function)
@@ -79,11 +72,9 @@ Folder: manag_nothin (simulation II)
 - median_europe.m, calculate median for Central European countries (helper function)
 - median_europe_sev_cols.m, calculate median for Central European countries for files with several value columns (helper function)
 - NPP_contributes_FigA8.m, Calculation of forest NPP and export of trend and uncertainty
-- polypredci.m, Star Strider 2020 polypredci https://www.mathworks.com/matlabcentral/fileexchange/57630-polypredci MATLAB Central File Exchange Retrieved November 24 2020 (helper function)
 - timerange.m, extraction of time period 1985-2010 for all cells (helper function)
 
 Folder: PNV (simulation I)
-- brewermap.m, Stephen 2021 ColorBrewer: Attractive and Distinctive Colormaps https://github.com/DrosteEffect/BrewerMap GitHub Retrieved May 19 2021 (helper function)
 - canopy_area_mort_adjusted.m, adjust canopy mortality rate to only take into account the part that is likely to be seen from space (helper function)
 - canopy_mort_trend_contributes_Fig3.m, Canopy mortality trend and SE exported for all countries and Central Europe
 - country_nbr.m, add FAO country number to cells in Central Europe (helper function)
@@ -95,7 +86,6 @@ Folder: PNV (simulation I)
 - median_europe.m, calculate median for Central European countries (helper function)
 - median_europe_sev_cols.m, calculate median for Central European countries for files with several value columns (helper function)
 - NPP_contributes_FigA8.m, Calculation of forest NPP and export of trend and uncertainty
-- polypredci.m, Star Strider 2020 polypredci https://www.mathworks.com/matlabcentral/fileexchange/57630-polypredci MATLAB Central File Exchange Retrieved November 24 2020 (helper function)
 - timerange.m, extraction of time period 1985-2010 for all cells (helper function)
 
 Folder: sims_plotted_together
@@ -109,5 +99,8 @@ Folder: sims_plotted_together
     - Fig1_Senf_managed_and_central_Europe.m, Plot canopy mortality time series by Senf et al. (2018) and from LPJ-GUESS simulation manag_nofix
     - lpj_tp_grid_func_centre.m, Function to read in a LPJ-GUESS output file and reformat it into a multi-dimensional array suitable for making Matlab plots with (helper function)
     - median_europe.m, calculate median for Central European countries (helper function)
-   - polypredci.m, Star Strider 2020 polypredci https://www.mathworks.com/matlabcentral/fileexchange/57630-polypredci MATLAB Central File Exchange Retrieved November 24 2020 (helper function)
     - timerange.m, extraction of time period 1985-2010 for all cells (helper function)
+
+## Dependencies
+- "ColorBrewer: Attractive and Distinctive Colormaps", v. 3.2.1, https://www.mathworks.com/matlabcentral/fileexchange/45208-colorbrewer-attractive-and-distinctive-colormaps
+-  "polypredci", v. 1.0.0.0, https://www.mathworks.com/matlabcentral/fileexchange/57630-polypredci
