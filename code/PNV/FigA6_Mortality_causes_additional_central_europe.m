@@ -2,6 +2,9 @@
 %in Central Europe
 %Marieke Scheel
 
+%add path for helper functions
+addpath('../helper_functions');
+
 %% plot mortality causes for Central Europe
 %import crownarea
 opts = detectImportOptions('diam_crownarea.txt');
