@@ -1,6 +1,9 @@
 %Calculation and plotting of biomass by diameter in countries over time
 %Marieke Scheel
 
+%add path for helper functions
+addpath('../helper_functions');
+
 %plot canopy area vs tree diameter
 %import variable
 opts = detectImportOptions('diam_cmass_wood.txt');
