@@ -5,7 +5,7 @@
 pathname='C:\..\sims_plotted_together\Mortality_bar_plots';
 
 %add path for helper functions
-addpath('../dependencies');
+addpath('../helper_functions');
 
 %% import forest NPP values in cells (in cflux_forest_rel)
 opts = detectImportOptions('cflux.txt');
