@@ -6,7 +6,7 @@
 pathname='C:\..\sims_plotted_together\Mortality_bar_plots';
 
 %add path for helper functions
-addpath('../dependencies');
+addpath('../helper_functions');
 
 %% import canopy mortality (crownloss/diam_crownarea)
 opts = detectImportOptions('crownloss.txt');
