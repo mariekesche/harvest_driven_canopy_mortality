@@ -5,6 +5,9 @@
 %set output folder for Canopy mortality trends and SE
 pathname='C:\..\sims_plotted_together\Mortality_bar_plots';
 
+%add path for helper functions
+addpath('../dependencies');
+
 %% import canopy mortality (crownloss/diam_crownarea)
 opts = detectImportOptions('crownloss.txt');
 opts.VariableNamingRule= 'preserve';
