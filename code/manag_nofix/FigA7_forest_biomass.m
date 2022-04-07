@@ -1,6 +1,9 @@
 %Plotting of forest biomass in the countries over time
 %Marieke Scheel
 
+%add path for helper functions
+addpath('../helper_functions');
+
 %import forest biomass (cpool)
 opts = detectImportOptions('cpool_forest_rel.txt');
 opts.VariableNamingRule= 'preserve';
