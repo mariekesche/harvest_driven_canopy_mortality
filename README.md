@@ -101,6 +101,6 @@ Folder: sims_plotted_together
     - median_europe.m, calculate median for Central European countries (helper function)
     - timerange.m, extraction of time period 1985-2010 for all cells (helper function)
 
-## Dependencies
+Dependencies
 - "ColorBrewer: Attractive and Distinctive Colormaps", v. 3.2.1, https://www.mathworks.com/matlabcentral/fileexchange/45208-colorbrewer-attractive-and-distinctive-colormaps
 -  "polypredci", v. 1.0.0.0, https://www.mathworks.com/matlabcentral/fileexchange/57630-polypredci
