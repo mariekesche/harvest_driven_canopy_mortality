@@ -1,6 +1,9 @@
 %Calculation and plotting of different mortality metrics in Central Europe
 %Marieke Scheel
 
+%add path for helper functions
+addpath('../helper_functions');
+
 %% stem mortality 
 % import (mortality=stemloss/diam_dens), apply threshold of 10 cm
 opts = detectImportOptions('stemloss.txt');
