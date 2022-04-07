@@ -3,6 +3,9 @@
 %(2020)
 %Marieke Scheel
 
+%add path for helper functions
+addpath('../helper_functions');
+
 %% harvest rate used in LPJ-GUESS model
 %import landcover_europe (input to LPJ-GUESS model, showing harvest as 
 %changes from "natural" to "forest")
