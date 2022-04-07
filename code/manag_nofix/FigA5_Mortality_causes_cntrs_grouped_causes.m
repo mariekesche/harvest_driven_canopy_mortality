@@ -1,6 +1,9 @@
 %Calculation and plotting of canopy mortality causes in countries
 %Marieke Scheel
 
+%add path for helper functions
+addpath('../helper_functions');
+
 %% plot mortality causes for Central europe
 %import crownarea
 opts = detectImportOptions('diam_crownarea.txt');
