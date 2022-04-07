@@ -2,6 +2,9 @@
 %1985-2010 in six Central European countries
 %Marieke Scheel
 
+%add path for helper functions
+addpath('../helper_functions');
+
 %import lai file
 opts = detectImportOptions('lai.txt');
 opts.VariableNamingRule= 'preserve';
