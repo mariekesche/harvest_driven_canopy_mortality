@@ -9,7 +9,7 @@ Scripts underlying analysis in:
 Marieke Scheel, Mats Lindeskog, Benjamin Smith, Thomas A. M. Pugh, Increased Central European forest mortality explained by higher harvest rates driven by enhanced productivity
 
 Folder: harvest_checks
-- harvest_rate_LPJGUESS.m, Plot harvest rates used in LPJ-GUESS model vs. harvest rate calculated from FAO wood area estimates and wood removeal estimates by Ceccherini et al. (2020)
+- FigA1_harvest_rates_LPJGUESS.m, Plot harvest rates used in LPJ-GUESS model vs. harvest rate calculated from FAO wood area estimates and wood removeal estimates by Ceccherini et al. (2020)
 - median_europe_sev_cols_2.m, calculate median in each country (helper function)
 
 Folder: manag_climfix (simulation IVa)
