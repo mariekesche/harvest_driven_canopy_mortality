@@ -2,6 +2,9 @@
 %simulation manag_nofix
 %Marieke Scheel
 
+%add path for helper functions
+addpath('../helper_functions');
+
 %% import mortality rates by Senf et al. (2018)
 opts = detectImportOptions('Senf_annual_rates_central_Europe.csv');
 T = readtable('Senf_annual_rates_central_Europe.csv',opts,'ReadVariableNames',true);
