@@ -61,6 +61,7 @@ Folder: helper_functions
 - median_all_europe.m, calculate median for Central Europe
 - median_all_europe_sev_cols.m, calculate median for Central Europe for files with several value columns
 - median_europe.m, calculate median for Central European countries
+- median_europe_harvest.m, calculate median of harvest rates for Central European countries 
 - median_europe_sev_cols.m, calculate median for Central European countries for files with several value columns
 - timerange.m, extraction of time period 1985-2010 for all cells 
 
