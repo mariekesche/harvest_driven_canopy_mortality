@@ -6,7 +6,7 @@ Thomas A. M. Pugh, Lund University, Sweden, thomas.pugh@nateko.lu.se
 
 ## Description
 Scripts underlying analysis in:
-Marieke Scheel, Mats Lindeskog, Benjamin Smith, Thomas A. M. Pugh, Susanne Suvanto
+Marieke Scheel, Mats Lindeskog, Benjamin Smith, Susanne Suvanto, Thomas A. M. Pugh
 Increased Central European forest mortality explained by higher harvest rates driven by enhanced productivity
 
 Folder: harvest_checks
