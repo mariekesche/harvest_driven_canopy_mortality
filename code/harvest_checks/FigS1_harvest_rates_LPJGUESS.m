@@ -6,6 +6,7 @@
 %add path for helper functions and dependencies
 addpath('../helper_functions');
 addpath('../data/dependencies');
+addpath('../data/harvest_checks');
 
 %% harvest rate used in LPJ-GUESS model
 %import landcover_europe (input to LPJ-GUESS model, showing harvest as 
