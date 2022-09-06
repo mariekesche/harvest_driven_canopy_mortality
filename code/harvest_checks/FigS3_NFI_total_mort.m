@@ -5,6 +5,7 @@
 addpath('../helper_functions');
 addpath('../data/dependencies');
 addpath('../data/manag_nofix');
+addpath('../data/harvest_checks');
 
 %% total mortality rates biomass and stem LPJ-GUESS (excl. clear-cut)
 %import total biomass
