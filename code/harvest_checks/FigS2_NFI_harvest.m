@@ -6,6 +6,7 @@
 addpath('../helper_functions');
 addpath('../data/dependencies');
 addpath('../data/manag_nofix');
+addpath('../data/harvest_checks');
 
 %% clearcut harvest rate used in LPJ-GUESS model
 %import landcover_europe (input to LPJ-GUESS model, showing harvest as 
